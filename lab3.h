@@ -1,5 +1,5 @@
 
-// Elever: Ahmad Alabdulrahem och Amro Daghestani
+// student: Ahmad Alabdulrahem 
 
 #include<stdio.h>
 #include<stdlib.h>
