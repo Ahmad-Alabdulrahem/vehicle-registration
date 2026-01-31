@@ -1,6 +1,6 @@
 
 
-// Elever: Ahmad Alabdulrahem och Amro Daghestani
+// student: Ahmad Alabdulrahem 
 
 #include"lab3.h"
 
